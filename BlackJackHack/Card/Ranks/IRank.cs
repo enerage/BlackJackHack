@@ -8,6 +8,6 @@ namespace BlackJackHack.Card.Ranks
 {
     interface IRank
     {
-        public string Rank { get; set; }
+        string Rank { get; set; }
     }
 }

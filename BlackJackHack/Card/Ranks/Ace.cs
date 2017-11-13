@@ -6,7 +6,19 @@ using System.Threading.Tasks;
 
 namespace BlackJackHack.Card.Ranks
 {
-    class Ace
+    class Ace : IRank
     {
+        public string Rank
+        {
+            get
+            {
+                throw new NotImplementedException();
+            }
+
+            set
+            {
+                throw new NotImplementedException();
+            }
+        }
     }
 }

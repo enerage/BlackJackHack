@@ -43,6 +43,27 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Card\ICard.cs" />
+    <Compile Include="Card\Ranks\Ace.cs" />
+    <Compile Include="Card\Ranks\Eight.cs" />
+    <Compile Include="Card\Ranks\Five.cs" />
+    <Compile Include="Card\Ranks\Four.cs" />
+    <Compile Include="Card\Ranks\IRank.cs" />
+    <Compile Include="Card\Ranks\Jack.cs" />
+    <Compile Include="Card\Ranks\King.cs" />
+    <Compile Include="Card\Ranks\Nine.cs" />
+    <Compile Include="Card\Ranks\Queen.cs" />
+    <Compile Include="Card\Ranks\Seven.cs" />
+    <Compile Include="Card\Ranks\Six.cs" />
+    <Compile Include="Card\Ranks\Ten.cs" />
+    <Compile Include="Card\Ranks\Three.cs" />
+    <Compile Include="Card\Ranks\Two.cs" />
+    <Compile Include="Card\Suits\Club.cs" />
+    <Compile Include="Card\Suits\Diamond.cs" />
+    <Compile Include="Card\Suits\Heart.cs" />
+    <Compile Include="Card\Suits\ISuit.cs" />
+    <Compile Include="Card\Suits\Spade.cs" />
+    <Compile Include="Deck.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
