@@ -1,0 +1,5 @@
+C:\Users\enera\Desktop\New folder\BlackJackHack\BlackJackGame\bin\Debug\BlackJackGame.dll
+C:\Users\enera\Desktop\New folder\BlackJackHack\BlackJackGame\bin\Debug\BlackJackGame.pdb
+C:\Users\enera\Desktop\New folder\BlackJackHack\BlackJackGame\obj\Debug\BlackJackGame.csprojResolveAssemblyReference.cache
+C:\Users\enera\Desktop\New folder\BlackJackHack\BlackJackGame\obj\Debug\BlackJackGame.dll
+C:\Users\enera\Desktop\New folder\BlackJackHack\BlackJackGame\obj\Debug\BlackJackGame.pdb

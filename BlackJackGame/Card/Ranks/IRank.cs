@@ -4,12 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace BlackJackGame
+namespace BlackJackGame.Card.Ranks
 {
-    class Program
+    public interface IRank
     {
-        static void Main(string[] args)
-        {
-        }
+        string Rank { get; }
     }
 }

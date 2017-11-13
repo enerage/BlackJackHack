@@ -6,10 +6,13 @@ using System.Threading.Tasks;
 
 namespace BlackJackGame
 {
-    class Program
+    public class NewGame
     {
-        static void Main(string[] args)
+        public NewGame(Deck deck)
         {
+
         }
+
+
     }
 }

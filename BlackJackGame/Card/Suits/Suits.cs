@@ -4,12 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace BlackJackGame
+namespace BlackJackGame.Card.Suits
 {
-    class Program
+    enum Suits
     {
-        static void Main(string[] args)
-        {
-        }
+        Club,
+        Diamond,
+        Heart,
+        Spade
     }
 }

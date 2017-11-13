@@ -1,1 +1,2 @@
 C:\Users\VRangelov\Desktop\BlackJackHack\BlackJackHack\BlackJackHack\bin\Debug\BlackJackHack.exe.config
+C:\Users\enera\Desktop\New folder\BlackJackHack\BlackJackHack\bin\Debug\BlackJackHack.exe.config
